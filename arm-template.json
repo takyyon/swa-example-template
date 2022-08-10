@@ -114,7 +114,8 @@
     "databaseName": {
       "type": "string",
       "metadata": {
-        "description": "The name for the Mongo DB database"
+        "description": "The name for the Mongo DB database",
+        "type": "DatabaseName"
       }
     },
     "throughput": {
